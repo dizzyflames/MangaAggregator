@@ -1,2 +1,2 @@
-# The-Aggregator
+# Manga Aggregator
 A collection of manga aggregators
